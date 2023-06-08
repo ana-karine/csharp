@@ -1,4 +1,4 @@
-#### Variáveis e Tipos Básicos (<tipo> <nome> = <valor inicial>)
+#### Variáveis e Tipos Básicos (`<tipo> <nome> = <valor inicial>`)
 ```
 double d = 6.0;
 float f = 6f;
