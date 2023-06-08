@@ -4,4 +4,4 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Cursos
 
-- [C# primeiros passos: Lógica de Programação e Algoritmos] (https://www.udemy.com/course/logica-de-programacao-csharp/)
+- [C# primeiros passos: Lógica de Programação e Algoritmos](https://www.udemy.com/course/logica-de-programacao-csharp/)
