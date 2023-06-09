@@ -1,3 +1,8 @@
+#### Namespace
+```
+using System.Globalization; // CultureInfo.InvariantCulture
+```
+
 #### Variáveis e Tipos Básicos (`<tipo> <nome> = <valor inicial>`)
 ```
 double d = 6.0;
@@ -48,7 +53,7 @@ Console.WriteLine("numC = " + numC.ToString(CultureInfo.InvariantCulture)); // 3
 
 #### Funções Matemáticas
 ```
-<result> = Math.Sqrt(<numberX>); // sqrt - raiz quadrada
-<result> = Math.Pow(<numberX>, <numberY>); // pow - potenciação
-<result> = Math.Abs(<numberX>); // abs - valor absoluto ou módulo
+<result> = Math.Sqrt(<numberX>); // Sqrt - raiz quadrada
+<result> = Math.Pow(<numberX>, <numberY>); // Pow - potenciação
+<result> = Math.Abs(<numberX>); // Abs - valor absoluto ou módulo
 ```
