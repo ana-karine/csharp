@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\bin\Debug\net6.0\MaiorNumeroEPosicao.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\bin\Debug\net6.0\MaiorNumeroEPosicao.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\bin\Debug\net6.0\MaiorNumeroEPosicao.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\bin\Debug\net6.0\MaiorNumeroEPosicao.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\bin\Debug\net6.0\MaiorNumeroEPosicao.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\obj\Debug\net6.0\MaiorNumeroEPosicao.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\obj\Debug\net6.0\MaiorNumeroEPosicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\obj\Debug\net6.0\MaiorNumeroEPosicao.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\obj\Debug\net6.0\MaiorNumeroEPosicao.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\obj\Debug\net6.0\MaiorNumeroEPosicao.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\obj\Debug\net6.0\MaiorNumeroEPosicao.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\obj\Debug\net6.0\refint\MaiorNumeroEPosicao.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\obj\Debug\net6.0\MaiorNumeroEPosicao.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\obj\Debug\net6.0\MaiorNumeroEPosicao.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MaiorNumeroEPosicao\obj\Debug\net6.0\ref\MaiorNumeroEPosicao.dll

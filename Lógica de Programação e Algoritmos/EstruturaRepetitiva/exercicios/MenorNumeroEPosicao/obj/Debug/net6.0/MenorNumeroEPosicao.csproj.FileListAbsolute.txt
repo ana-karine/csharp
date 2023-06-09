@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\bin\Debug\net6.0\MenorNumeroEPosicao.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\bin\Debug\net6.0\MenorNumeroEPosicao.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\bin\Debug\net6.0\MenorNumeroEPosicao.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\bin\Debug\net6.0\MenorNumeroEPosicao.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\bin\Debug\net6.0\MenorNumeroEPosicao.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\obj\Debug\net6.0\MenorNumeroEPosicao.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\obj\Debug\net6.0\MenorNumeroEPosicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\obj\Debug\net6.0\MenorNumeroEPosicao.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\obj\Debug\net6.0\MenorNumeroEPosicao.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\obj\Debug\net6.0\MenorNumeroEPosicao.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\obj\Debug\net6.0\MenorNumeroEPosicao.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\obj\Debug\net6.0\refint\MenorNumeroEPosicao.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\obj\Debug\net6.0\MenorNumeroEPosicao.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\obj\Debug\net6.0\MenorNumeroEPosicao.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\exercicios\MenorNumeroEPosicao\obj\Debug\net6.0\ref\MenorNumeroEPosicao.dll
