@@ -7,6 +7,7 @@
 - [Ordem Decrescente](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/OrdemDecrescente/Program.cs)
 - [Pares, Ímpares, Positivos e Negativos](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/ParesImparesPositivosNegativos/Program.cs)
 - [Quadrante](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaRepetitiva/While/Quadrante/Program.cs)
+- [Soma de Ímpares Consecutivos no Intervalo](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaRepetitiva/For/SomaDeImparesConsecutivosNoIntervalo/Program.cs)
 - [Soma de Pares Consecutivos](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaRepetitiva/While/SomaDeParesConsecutivos/Program.cs)
 - [Tempo de Jogo](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/TempoDeJogo/Program.cs)
 - [Tipos de Triângulos](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/TiposDeTriangulos/Program.cs)
