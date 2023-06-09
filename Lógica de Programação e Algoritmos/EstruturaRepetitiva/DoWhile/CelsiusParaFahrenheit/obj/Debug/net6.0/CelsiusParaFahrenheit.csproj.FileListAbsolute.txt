@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\bin\Debug\net6.0\CelsiusParaFahrenheit.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\bin\Debug\net6.0\CelsiusParaFahrenheit.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\bin\Debug\net6.0\CelsiusParaFahrenheit.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\bin\Debug\net6.0\CelsiusParaFahrenheit.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\bin\Debug\net6.0\CelsiusParaFahrenheit.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\obj\Debug\net6.0\CelsiusParaFahrenheit.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\obj\Debug\net6.0\CelsiusParaFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\obj\Debug\net6.0\CelsiusParaFahrenheit.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\obj\Debug\net6.0\CelsiusParaFahrenheit.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\obj\Debug\net6.0\CelsiusParaFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\obj\Debug\net6.0\CelsiusParaFahrenheit.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\obj\Debug\net6.0\refint\CelsiusParaFahrenheit.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\obj\Debug\net6.0\CelsiusParaFahrenheit.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\obj\Debug\net6.0\CelsiusParaFahrenheit.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\DoWhile\CelsiusParaFahrenheit\obj\Debug\net6.0\ref\CelsiusParaFahrenheit.dll
