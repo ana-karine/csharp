@@ -1,54 +1,7 @@
-#### Variáveis e Tipos Básicos (`<tipo> <nome> = <valor inicial>`)
-```
-double d = 6.0;
-float f = 6f;
-```
-
-#### Casting: conversão explícita de um tipo para outro
-```
-<variavelA> = (double) <variavelB> / <variavelC>;
-```
-
-#### Saída de dados   
-```
-double number = 10.35784;
-
-Console.WriteLine(number); // 10,35784
-Console.WriteLine(number.ToString("F2")); // 10,36
-Console.WriteLine(number.ToString("F2", CultureInfo.InvariantCulture)); // 10.36
-```
-
-#### Entrada de dados
-```
-string phrase;
-
-phrase = Console.ReadLine(); // lê a string até apertar <Enter>
-```
-
-#### Split
-```
-string[] vector;
-
-vector = phrase.Split(' ');
-
-Console.WriteLine("vector[0] = " + vector[0]);
-```
-
-#### Parse
-```
-double numB; 
-double numC; 
-
-numB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); // 2.65
-numC = double.Parse(Console.ReadLine()); // 3,98
-
-Console.WriteLine("numB = " + numB); // 2,65
-Console.WriteLine("numC = " + numC.ToString(CultureInfo.InvariantCulture)); // 3.98
-```
-
-#### Funções Matemáticas
-```
-<result> = Math.Sqrt(<numberX>); // sqrt - raiz quadrada
-<result> = Math.Pow(<numberX>, <numberY>); // pow - potenciação
-<result> = Math.Abs(<numberX>); // abs - valor absoluto ou módulo
-```
+- [Aumento de Salário](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/AumentoDeSalario/Program.cs)
+- [Dia da semana](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/SwitchCase/Program.cs)
+- [O maior dos números](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/MaiorDosNumeros/Program.cs)
+- [O menor dos números](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/IfElse/Program.cs)
+- [Ordem Crescente](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/OrdemCrescente/Program.cs)
+- [Ordem Decrescente](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/OrdemDecrescente/Program.cs)
+- [Tipos de Triângulos](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/TiposDeTriangulos/Program.cs)
