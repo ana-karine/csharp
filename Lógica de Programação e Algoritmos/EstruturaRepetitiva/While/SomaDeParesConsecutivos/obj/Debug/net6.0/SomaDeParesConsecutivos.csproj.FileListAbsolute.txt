@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\bin\Debug\net6.0\SomaDeParesConsecutivos.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\bin\Debug\net6.0\SomaDeParesConsecutivos.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\bin\Debug\net6.0\SomaDeParesConsecutivos.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\bin\Debug\net6.0\SomaDeParesConsecutivos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\bin\Debug\net6.0\SomaDeParesConsecutivos.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\obj\Debug\net6.0\SomaDeParesConsecutivos.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\obj\Debug\net6.0\SomaDeParesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\obj\Debug\net6.0\SomaDeParesConsecutivos.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\obj\Debug\net6.0\SomaDeParesConsecutivos.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\obj\Debug\net6.0\SomaDeParesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\obj\Debug\net6.0\SomaDeParesConsecutivos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\obj\Debug\net6.0\refint\SomaDeParesConsecutivos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\obj\Debug\net6.0\SomaDeParesConsecutivos.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\obj\Debug\net6.0\SomaDeParesConsecutivos.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\While\SomaDeParesConsecutivos\obj\Debug\net6.0\ref\SomaDeParesConsecutivos.dll
