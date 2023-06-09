@@ -1,4 +1,5 @@
 - [Aumento de Salário](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/AumentoDeSalario/Program.cs)
+- [Celsius para Fahrenheit](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaRepetitiva/DoWhile/CelsiusParaFahrenheit/Program.cs)
 - [Dia da semana](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/SwitchCase/Program.cs)
 - [ImpostoDeRenda](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/ImpostoDeRenda/Program.cs)
 - [O maior dos números](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/MaiorDosNumeros/Program.cs)
