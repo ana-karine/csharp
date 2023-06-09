@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\bin\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\bin\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\bin\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\bin\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\bin\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\obj\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\obj\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\obj\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\obj\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\obj\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\obj\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\obj\Debug\net6.0\refint\SomaDeImparesConsecutivosNoIntervalo.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\obj\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\obj\Debug\net6.0\SomaDeImparesConsecutivosNoIntervalo.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaRepetitiva\For\SomaDeImparesConsecutivosNoIntervalo\obj\Debug\net6.0\ref\SomaDeImparesConsecutivosNoIntervalo.dll
