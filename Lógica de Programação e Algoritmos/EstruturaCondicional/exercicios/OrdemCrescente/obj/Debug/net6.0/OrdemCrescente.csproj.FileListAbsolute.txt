@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\bin\Debug\net6.0\OrdemCrescente.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\bin\Debug\net6.0\OrdemCrescente.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\bin\Debug\net6.0\OrdemCrescente.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\bin\Debug\net6.0\OrdemCrescente.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\bin\Debug\net6.0\OrdemCrescente.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\obj\Debug\net6.0\refint\OrdemCrescente.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\OrdemCrescente\obj\Debug\net6.0\ref\OrdemCrescente.dll

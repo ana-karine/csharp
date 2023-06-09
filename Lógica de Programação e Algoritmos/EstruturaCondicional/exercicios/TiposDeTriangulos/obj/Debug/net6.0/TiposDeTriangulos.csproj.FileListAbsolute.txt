@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\bin\Debug\net6.0\TiposDeTriangulos.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\bin\Debug\net6.0\TiposDeTriangulos.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\bin\Debug\net6.0\TiposDeTriangulos.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\bin\Debug\net6.0\TiposDeTriangulos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\bin\Debug\net6.0\TiposDeTriangulos.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\obj\Debug\net6.0\refint\TiposDeTriangulos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TiposDeTriangulos\obj\Debug\net6.0\ref\TiposDeTriangulos.dll

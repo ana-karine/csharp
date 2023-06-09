@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\bin\Debug\net6.0\AumentoDeSalario.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\bin\Debug\net6.0\AumentoDeSalario.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\bin\Debug\net6.0\AumentoDeSalario.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\bin\Debug\net6.0\AumentoDeSalario.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\bin\Debug\net6.0\AumentoDeSalario.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\obj\Debug\net6.0\refint\AumentoDeSalario.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\AumentoDeSalario\obj\Debug\net6.0\ref\AumentoDeSalario.dll
