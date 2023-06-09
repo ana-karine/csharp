@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\obj\Debug\net6.0\ParesImparesPositivosNegativos.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\obj\Debug\net6.0\ParesImparesPositivosNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\obj\Debug\net6.0\ParesImparesPositivosNegativos.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\obj\Debug\net6.0\ParesImparesPositivosNegativos.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\obj\Debug\net6.0\ParesImparesPositivosNegativos.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\bin\Debug\net6.0\ParesImparesPositivosNegativos.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\bin\Debug\net6.0\ParesImparesPositivosNegativos.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\bin\Debug\net6.0\ParesImparesPositivosNegativos.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\bin\Debug\net6.0\ParesImparesPositivosNegativos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\bin\Debug\net6.0\ParesImparesPositivosNegativos.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\obj\Debug\net6.0\ParesImparesPositivosNegativos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\obj\Debug\net6.0\refint\ParesImparesPositivosNegativos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\obj\Debug\net6.0\ParesImparesPositivosNegativos.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\obj\Debug\net6.0\ParesImparesPositivosNegativos.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\ParesImparesPositivosNegativos\obj\Debug\net6.0\ref\ParesImparesPositivosNegativos.dll

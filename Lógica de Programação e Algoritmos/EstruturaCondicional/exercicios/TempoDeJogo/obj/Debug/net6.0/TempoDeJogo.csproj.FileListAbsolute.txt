@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\obj\Debug\net6.0\refint\TempoDeJogo.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\TempoDeJogo\obj\Debug\net6.0\ref\TempoDeJogo.dll
