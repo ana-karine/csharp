@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\bin\Debug\net6.0\MaiorDosNumeros.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\bin\Debug\net6.0\MaiorDosNumeros.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\bin\Debug\net6.0\MaiorDosNumeros.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\bin\Debug\net6.0\MaiorDosNumeros.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\bin\Debug\net6.0\MaiorDosNumeros.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\obj\Debug\net6.0\MaiorDosNumeros.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\obj\Debug\net6.0\MaiorDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\obj\Debug\net6.0\MaiorDosNumeros.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\obj\Debug\net6.0\MaiorDosNumeros.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\obj\Debug\net6.0\MaiorDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\obj\Debug\net6.0\MaiorDosNumeros.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\obj\Debug\net6.0\refint\MaiorDosNumeros.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\obj\Debug\net6.0\MaiorDosNumeros.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\obj\Debug\net6.0\MaiorDosNumeros.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\EstruturaCondicional\exercicios\MaiorDosNumeros\obj\Debug\net6.0\ref\MaiorDosNumeros.dll
