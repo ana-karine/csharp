@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\bin\Debug\net6.0\ExemploBasico.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\bin\Debug\net6.0\ExemploBasico.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\bin\Debug\net6.0\ExemploBasico.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\bin\Debug\net6.0\ExemploBasico.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\bin\Debug\net6.0\ExemploBasico.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\obj\Debug\net6.0\ExemploBasico.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\obj\Debug\net6.0\ExemploBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\obj\Debug\net6.0\ExemploBasico.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\obj\Debug\net6.0\ExemploBasico.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\obj\Debug\net6.0\ExemploBasico.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\obj\Debug\net6.0\ExemploBasico.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\obj\Debug\net6.0\refint\ExemploBasico.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\obj\Debug\net6.0\ExemploBasico.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\obj\Debug\net6.0\ExemploBasico.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\ExemploBasico\obj\Debug\net6.0\ref\ExemploBasico.dll

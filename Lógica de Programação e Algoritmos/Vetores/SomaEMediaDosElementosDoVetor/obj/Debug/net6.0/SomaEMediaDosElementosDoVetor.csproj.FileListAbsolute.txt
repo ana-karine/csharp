@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\obj\Debug\net6.0\SomaEMediaDosElementosDoVetor.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\obj\Debug\net6.0\SomaEMediaDosElementosDoVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\obj\Debug\net6.0\SomaEMediaDosElementosDoVetor.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\obj\Debug\net6.0\SomaEMediaDosElementosDoVetor.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\obj\Debug\net6.0\SomaEMediaDosElementosDoVetor.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\bin\Debug\net6.0\SomaEMediaDosElementosDoVetor.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\bin\Debug\net6.0\SomaEMediaDosElementosDoVetor.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\bin\Debug\net6.0\SomaEMediaDosElementosDoVetor.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\bin\Debug\net6.0\SomaEMediaDosElementosDoVetor.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\bin\Debug\net6.0\SomaEMediaDosElementosDoVetor.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\obj\Debug\net6.0\SomaEMediaDosElementosDoVetor.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\obj\Debug\net6.0\refint\SomaEMediaDosElementosDoVetor.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\obj\Debug\net6.0\SomaEMediaDosElementosDoVetor.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\obj\Debug\net6.0\SomaEMediaDosElementosDoVetor.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Vetores\SomaEMediaDosElementosDoVetor\obj\Debug\net6.0\ref\SomaEMediaDosElementosDoVetor.dll
