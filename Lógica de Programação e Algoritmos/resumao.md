@@ -80,6 +80,7 @@ float[][] vetorDeDecimais;
 
 #### [Arrays - inicialização](http://www.linhadecodigo.com.br/artigo/3444/arrays-em-csharp-teoria-e-pratica.aspx)
 - **No momento da declaração**
+
 1: inicialização de vetor junto com a declaração
 ```
 int[] impares = new int[] { 1, 3, 5, 7, 9 };
@@ -110,6 +111,7 @@ int[][] jagged1 =
 ```
 
 - **Após a declaração**
+
 1: inicializando elementos de um vetor individualmente
 ```
 int[] vetor = new int[3];
