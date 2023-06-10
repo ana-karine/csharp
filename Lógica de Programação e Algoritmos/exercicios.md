@@ -1,4 +1,4 @@
-- [Altura Média e Porcentagem de Idade]()
+- [Altura Média e Porcentagem de Idade (vetor)](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/Vetores/AlturaMediaEPorcentagemDeIdade/Program.cs)
 - [Arrays com uma dimensão (vetor) - exemplo básico](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/Vetores/ExemploBasico/Program.cs)
 - [Arrays com várias dimensões (matriz) - exemplo básico](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/Matrizes/ExemploBasico/Program.cs)
 - [Arrays onde cada elemento é um vetor (jagged) - exemplo básico](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/Jagged/ExemploBasico/Program.cs)
@@ -27,6 +27,6 @@
 - [Soma de Ímpares Consecutivos no Intervalo](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaRepetitiva/For/SomaDeImparesConsecutivosNoIntervalo/Program.cs)
 - [Soma de Pares Consecutivos](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaRepetitiva/While/SomaDeParesConsecutivos/Program.cs)
 - [Soma dos Múltiplos de N no Intervalo](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaRepetitiva/exercicios/MultiplosDeNDentroDeUmIntervalo/Program.cs)
-- [Soma e Média dos Elementos do Vetor]()
+- [Soma e Média dos Elementos do Vetor](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/Vetores/SomaEMediaDosElementosDoVetor/Program.cs)
 - [Tempo de Jogo](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/TempoDeJogo/Program.cs)
 - [Tipos de Triângulos](https://github.com/ana-karine/csharp/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritmos/EstruturaCondicional/exercicios/TiposDeTriangulos/Program.cs)
