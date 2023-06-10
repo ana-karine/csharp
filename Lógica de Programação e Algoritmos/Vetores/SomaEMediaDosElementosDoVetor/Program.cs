@@ -15,18 +15,30 @@ Saída:
 9.00
 */
 
+double soma = 0.0;
+double media = 0.0;
+
 Console.WriteLine("Informe o tamanho do vetor: ");
 int N = int.Parse(Console.ReadLine());
+double[] doubleVector = new double[N];
 
 Console.WriteLine("Informe os " + N + " números reais do vetor: ");
 string[] stringVector = Console.ReadLine().Split(' ');
 
-double[] doubleVector = new double[N];
-
 for (int i = 0; i < N; i++ ) {
     doubleVector[i] = double.Parse(stringVector[i], CultureInfo.InvariantCulture);
+    soma += doubleVector[i];
 }
+
+media = soma / N;
+
+Console.WriteLine();
 
 for (int i = 0; i < N; i++ ) {
     Console.Write(doubleVector[i].ToString("F1", CultureInfo.InvariantCulture) + " ");
 }
+
+Console.WriteLine();
+
+Console.WriteLine(soma.ToString("F2", CultureInfo.InvariantCulture));
+Console.WriteLine(media.ToString("F2", CultureInfo.InvariantCulture));
