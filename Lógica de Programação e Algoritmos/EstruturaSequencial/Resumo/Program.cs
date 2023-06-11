@@ -53,8 +53,8 @@ namespace Resumo
 
 
             // Funções Matemáticas
-            int numberX;
-            int numberY;
+            int numberX = 0;
+            int numberY = 0;
             double result;
 
             result = Math.Sqrt(numberX); // sqrt - raiz quadrada
