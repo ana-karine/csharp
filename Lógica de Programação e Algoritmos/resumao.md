@@ -14,6 +14,23 @@ float f = 6f;
 <variavelA> = (double) <variavelB> / <variavelC>;
 ```
 
+#### Split()
+// Retorna uma array de strings gerada pela divisão da string original 
+// separada pelos delimitadores passados ​​como um parâmetro no método Split()
+```
+string phrase = "Meu Senhor!";
+string[] words = phrase.Split(' ');
+
+words[1] = "Senhor!"
+```
+
+#### Parse()
+// É usado para analisar (converter) uma string em um tipo de dados primitivo
+```
+string numberString = "2.65";
+double M = double.Parse(numberString, CultureInfo.InvariantCulture); // M = 2.65
+```
+
 #### Saída de dados   
 ```
 double number = 10.35784;
@@ -25,30 +42,21 @@ Console.WriteLine(number.ToString("F2", CultureInfo.InvariantCulture)); // 10.36
 
 #### Entrada de dados
 ```
-string phrase;
+string str = Console.ReadLine(); // lê a string até apertar <Enter>
 
-phrase = Console.ReadLine(); // lê a string até apertar <Enter>
-```
+string[] substrings = Console.ReadLine().Split(' '); 
 
-#### Split
-```
-string[] vector;
+int N = int.Parse(Console.ReadLine()); 
 
-vector = phrase.Split(' ');
+// digitando "2.65"
+double numA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); // numA = 2.65
+Console.WriteLine(numA); // 2,65
+Console.WriteLine(numA.ToString(CultureInfo.InvariantCulture)); // 2.65
 
-Console.WriteLine("vector[0] = " + vector[0]);
-```
-
-#### Parse
-```
-double numB; 
-double numC; 
-
-numB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); // 2.65
-numC = double.Parse(Console.ReadLine()); // 3,98
-
-Console.WriteLine("numB = " + numB); // 2,65
-Console.WriteLine("numC = " + numC.ToString(CultureInfo.InvariantCulture)); // 3.98
+// digitando "2,65"
+double numB = double.Parse(Console.ReadLine()); // numB = 2,65
+Console.WriteLine(numB); // 2,65
+Console.WriteLine(numB.ToString(CultureInfo.InvariantCulture)); // 2.65
 ```
 
 #### Funções Matemáticas
