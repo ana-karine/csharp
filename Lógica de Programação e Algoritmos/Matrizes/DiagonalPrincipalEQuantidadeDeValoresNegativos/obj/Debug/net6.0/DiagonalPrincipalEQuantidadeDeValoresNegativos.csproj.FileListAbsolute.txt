@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\obj\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\obj\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\obj\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\obj\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\obj\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\bin\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\bin\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\bin\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\bin\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\bin\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\obj\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\obj\Debug\net6.0\refint\DiagonalPrincipalEQuantidadeDeValoresNegativos.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\obj\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\obj\Debug\net6.0\DiagonalPrincipalEQuantidadeDeValoresNegativos.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\DiagonalPrincipalEQuantidadeDeValoresNegativos\obj\Debug\net6.0\ref\DiagonalPrincipalEQuantidadeDeValoresNegativos.dll

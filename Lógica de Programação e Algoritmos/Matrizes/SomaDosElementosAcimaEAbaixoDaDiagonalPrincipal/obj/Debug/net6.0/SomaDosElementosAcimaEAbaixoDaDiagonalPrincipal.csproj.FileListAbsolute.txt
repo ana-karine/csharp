@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\bin\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\bin\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\bin\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\bin\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\bin\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\obj\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\obj\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\obj\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\obj\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\obj\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\obj\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\obj\Debug\net6.0\refint\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\obj\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\obj\Debug\net6.0\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal\obj\Debug\net6.0\ref\SomaDosElementosAcimaEAbaixoDaDiagonalPrincipal.dll

@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\bin\Debug\net6.0\SomaDosElementosDeCadaLinha.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\bin\Debug\net6.0\SomaDosElementosDeCadaLinha.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\bin\Debug\net6.0\SomaDosElementosDeCadaLinha.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\bin\Debug\net6.0\SomaDosElementosDeCadaLinha.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\bin\Debug\net6.0\SomaDosElementosDeCadaLinha.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\obj\Debug\net6.0\SomaDosElementosDeCadaLinha.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\obj\Debug\net6.0\SomaDosElementosDeCadaLinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\obj\Debug\net6.0\SomaDosElementosDeCadaLinha.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\obj\Debug\net6.0\SomaDosElementosDeCadaLinha.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\obj\Debug\net6.0\SomaDosElementosDeCadaLinha.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\obj\Debug\net6.0\SomaDosElementosDeCadaLinha.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\obj\Debug\net6.0\refint\SomaDosElementosDeCadaLinha.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\obj\Debug\net6.0\SomaDosElementosDeCadaLinha.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\obj\Debug\net6.0\SomaDosElementosDeCadaLinha.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\SomaDosElementosDeCadaLinha\obj\Debug\net6.0\ref\SomaDosElementosDeCadaLinha.dll

@@ -1,0 +1,15 @@
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\bin\Debug\net6.0\MaiorElementoDeCadaLinha.exe
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\bin\Debug\net6.0\MaiorElementoDeCadaLinha.deps.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\bin\Debug\net6.0\MaiorElementoDeCadaLinha.runtimeconfig.json
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\bin\Debug\net6.0\MaiorElementoDeCadaLinha.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\bin\Debug\net6.0\MaiorElementoDeCadaLinha.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\obj\Debug\net6.0\MaiorElementoDeCadaLinha.csproj.AssemblyReference.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\obj\Debug\net6.0\MaiorElementoDeCadaLinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\obj\Debug\net6.0\MaiorElementoDeCadaLinha.AssemblyInfoInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\obj\Debug\net6.0\MaiorElementoDeCadaLinha.AssemblyInfo.cs
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\obj\Debug\net6.0\MaiorElementoDeCadaLinha.csproj.CoreCompileInputs.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\obj\Debug\net6.0\MaiorElementoDeCadaLinha.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\obj\Debug\net6.0\refint\MaiorElementoDeCadaLinha.dll
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\obj\Debug\net6.0\MaiorElementoDeCadaLinha.pdb
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\obj\Debug\net6.0\MaiorElementoDeCadaLinha.genruntimeconfig.cache
+C:\Users\ana\source\repos\csharp\Lógica de Programação e Algoritmos\Matrizes\MaiorElementoDeCadaLinha\obj\Debug\net6.0\ref\MaiorElementoDeCadaLinha.dll
